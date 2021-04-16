@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saakshidas.github.io/csb-wppe6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://saakshidas.github.io/csb-wppe6/static/js/main.0f8a60ff.chunk.js",
+    "main.js.map": "https://saakshidas.github.io/csb-wppe6/static/js/main.0f8a60ff.chunk.js.map",
+    "runtime-main.js": "https://saakshidas.github.io/csb-wppe6/static/js/runtime-main.e195406a.js",
+    "runtime-main.js.map": "https://saakshidas.github.io/csb-wppe6/static/js/runtime-main.e195406a.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://saakshidas.github.io/csb-wppe6/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://saakshidas.github.io/csb-wppe6/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://saakshidas.github.io/csb-wppe6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://saakshidas.github.io/csb-wppe6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://saakshidas.github.io/csb-wppe6/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e195406a.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0f8a60ff.chunk.js"
+  ]
+}
